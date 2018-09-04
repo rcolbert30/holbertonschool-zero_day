@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x00 Vagrant
 
 **At the end of this project you are expected to be able to explain to anyone, without the help of Google:**
@@ -10,3 +11,6 @@
 - How to use VMs with Vagrant
 - What does the command uname do
 - What is a zero-day
+=======
+# holbertonschool-zero_day
+>>>>>>> 8310745a8074265615c6ae17851429a3315bffa6
