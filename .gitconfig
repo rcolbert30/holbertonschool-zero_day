@@ -1,0 +1,5 @@
+[user]
+	email = colbertrashaad@gmail.com
+	name = shaadibo
+[core]
+	excludesfile = /home/vagrant/.gitignore_global

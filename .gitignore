@@ -1,0 +1,10 @@
+# Ignore all with extensions
+~#.exe
+
+# Ignore main files 
+**/*main.c
+
+# Ignore _putchar.c and a.out
+**/_putchar.c
+**/a.out
+
